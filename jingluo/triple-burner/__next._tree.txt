@@ -1,5 +1,5 @@
-:HL["/qihuang/_next/static/chunks/1ri69jxxdm20-.css","style"]
+:HL["/qihuang/_next/static/chunks/3-vbcv3v91d-6.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"triple-burner","s":[]},"h":65632,"c":"$Q3"}]]
-1:[["children",{"s":"jingluo","h":131168,"c":"$Q2"}]]
-0:{"b":"_aNVPKCNMd7qG4l0NKp_g","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+1:[["children",{"s":"jingluo","h":131136,"c":"$Q2"}]]
+0:{"b":"ZzZTYpLeq83zsbbUk4R0d","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
