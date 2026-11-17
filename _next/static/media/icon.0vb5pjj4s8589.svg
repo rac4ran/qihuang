@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0d1210" />
+  <rect x="4.5" y="4.5" width="55" height="55" rx="11" fill="none" stroke="#c8573f" stroke-opacity="0.55" />
+  <text
+    x="32"
+    y="43"
+    text-anchor="middle"
+    font-family="KaiTi, STKaiti, 'Songti SC', SimSun, serif"
+    font-size="32"
+    fill="#ebe6d8"
+  >岐</text>
+</svg>
