@@ -1,4 +1,4 @@
-:HL["/qihuang/_next/static/chunks/062pd2wxw6afv.css","style"]
+:HL["/qihuang/_next/static/chunks/23sjwkiku0p3e.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":"wuxing","h":64,"c":"$Q2"}]]
-0:{"b":"DldKc_Dh5JaTxCHBiaILB","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+1:[["children",{"s":"wuxing","h":96,"c":"$Q2"}]]
+0:{"b":"P_QaFaITPSnvk_H6_umAm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
