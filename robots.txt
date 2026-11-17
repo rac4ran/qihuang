@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://rac4ran.github.io/qihuang/
+Sitemap: https://rac4ran.github.io/qihuang/sitemap.xml
