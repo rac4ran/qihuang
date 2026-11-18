@@ -1,5 +1,5 @@
-:HL["/qihuang/_next/static/chunks/2rexdtz6b5z4-.css","style"]
+:HL["/qihuang/_next/static/chunks/43c_8yc87b757.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"small-intestine","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"jingluo","h":131136,"c":"$Q2"}]]
-0:{"b":"nV_20DLjGODbPtOA_R53k","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"vijg2pMstDmbIDjXXTgiS","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
